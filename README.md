@@ -69,12 +69,20 @@ bash main.sh
 ###  Results
 
 
-
 ### input image1
+
+ <img src="https://github.com/leeseomin/arte25/blob/main/s/IMG_2956.png" width="700">
+
+### output (image1)
+ 
+  <img src="https://github.com/leeseomin/arte25/blob/main/out/IMG_2956toon5cpu1edge.png" width="2000">
+
+
+### input image3
 
  <img src="https://github.com/leeseomin/arte25/blob/main/s/IMG_2945.png" width="700">
 
-### output (image1)
+### output (image3)
  
   <img src="https://github.com/leeseomin/arte25/blob/main/out/IMG_2945toon5cpu1edge.png" width="2000">
   

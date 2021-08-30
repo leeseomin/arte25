@@ -75,7 +75,7 @@ bash main.sh
 
 ### output (image1)
  
-  <img src="https://github.com/leeseomin/arte25/blob/main/out/IMG_2956toon5cpu1edge.png" width="2000">
+  <img src="https://github.com/leeseomin/arte25/blob/main/out/IMG_2956toon5cpu1edge.png" width="1900">
 
 
 
@@ -85,7 +85,7 @@ bash main.sh
 
 ### output (image2)
  
-  <img src="https://github.com/leeseomin/arte25/blob/main/out/hap_cpu1.png" width="2000">
+  <img src="https://github.com/leeseomin/arte25/blob/main/out/hedge.png" width="1900">
 
 
 ### input image3
@@ -94,7 +94,7 @@ bash main.sh
 
 ### output (image3)
  
-  <img src="https://github.com/leeseomin/arte25/blob/main/out/IMG_2945toon5cpu1edge.png" width="2000">
+  <img src="https://github.com/leeseomin/arte25/blob/main/out/IMG_2945toon5cpu1edge.png" width="1900">
   
   
 

@@ -72,11 +72,11 @@ bash main.sh
 
 ### input image1
 
- <img src="https://github.com/leeseomin/arte15/blob/main/s/11.png" width="700">
+ <img src="https://github.com/leeseomin/arte25/blob/main/s/IMG_2945.png" width="700">
 
 ### output (image1)
  
-  <img src="https://github.com/leeseomin/arte15/blob/main/out/11toon14.png" width="2000">
+  <img src="https://github.com/leeseomin/arte25/blob/main/out/IMG_2945toon5cpu1edge.png" width="2000">
   
   
 
